@@ -1,2 +1,1 @@
-# DSA
-Learn the basics of data structures and algorithms
+This is intended to learn the data-structures and algorithms
